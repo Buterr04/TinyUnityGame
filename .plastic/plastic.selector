@@ -1,0 +1,4 @@
+repository "HomeworkTinyGame@ayaka04@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
